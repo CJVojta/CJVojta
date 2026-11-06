@@ -4,7 +4,9 @@
 
 I use this portfolio to explore practical software problems, from processing data to building tools that make everyday tasks easier.
 
-## Featured project
+## Featured projects
+
+**[Nocturne](https://github.com/CJVojta/nocturne)** is an interactive night-sky atlas with a custom Canvas horizon map, coordinate calculations, and an observing log.
 
 **[OpsWatch](https://github.com/CJVojta/opswatch)** monitors HTTP services, turns repeated failures into incidents, and visualizes uptime and latency. The repository includes a runnable demo with four simulated services.
 
